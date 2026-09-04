@@ -7,7 +7,7 @@ about:
   head: 97cf10d
   archived: false
   latestVersion: v1.8.26
-  collectedAt: 2026-09-04T19:19:02Z
+  collectedAt: 2026-09-04T21:14:42Z
 timeline:
   created: 2024-04-26
   lastCommit: 2026-08-26
@@ -83,5 +83,43 @@ total:
   openIssue: 32
   commit: 740
 ---
+path: /home/runner/.x-repo/github.com/ddddddO/packemon
+collectedAt: 2026-09-04T21:14:44Z
+loc:
+  Go:
+    code: 11607
+    comments: 930
+    blanks: 2324
+    files: 105
+  C:
+    code: 195
+    comments: 20
+    blanks: 46
+    files: 1
+  Yaml:
+    code: 32
+    comments: 2
+    blanks: 3
+    files: 1
+  Makefile:
+    code: 18
+    comments: 4
+    blanks: 8
+    files: 3
+  Python:
+    code: 8
+    comments: 10
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 663
+    blanks: 226
+    files: 7
+total:
+  code: 11860
+  comments: 1629
+  blanks: 2614
+  files: 118
 ---
 
