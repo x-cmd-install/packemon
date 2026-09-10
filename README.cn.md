@@ -4,13 +4,25 @@
 
 Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 
-![packemon](https://repo.x-cmd.io/packemon.svg)
+![packemon](https://repo.x-cmd.io/packemon.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install packemon
 ```
+
+## 代码规模
+
+合计: **11,860** 行代码（覆盖前 5 种语言、共 **111** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 11,607 | 930 | 2,324 | 105 |
+| C | 195 | 20 | 46 | 1 |
+| Yaml | 32 | 2 | 3 | 1 |
+| Makefile | 18 | 4 | 8 | 3 |
+| Python | 8 | 10 | 7 | 1 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install packemon
 - **最新版本**: `v1.8.26` (2026-07-16)
 - **最近提交**: 2026-08-26
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-07-16T15:02:27Z
 
 ## 流行度
 
@@ -37,20 +48,32 @@ x install packemon
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-07-12 | 1 | 5 | 1 | 0 | 0 | 6 |
 | 90d | 2026-06-12 | 2 | 10 | 1 | 0 | 0 | 13 |
+| last180d | 2026-03-14 | 5 | 25 | 1 | 2 | 2 | 28 |
 | 360d | 2025-09-15 | 18 | 62 | 2 | 2 | 6 | 78 |
+| last720d | 2024-09-20 | 65 | 129 | 2 | 28 | 15 | 426 |
 
-## 代码规模
+## Release 资产
 
-合计: **11,860** 行代码（覆盖前 5 种语言、共 **111** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [packemon-1.8.26-darwin.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon-1.8.26-darwin.txt) | 191 B | `native/darwin/x64` |
+| [packemon_1.8.26-1_amd64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_1.8.26-1_amd64.apk) | 6.2 MiB | `other` |
+| [packemon_1.8.26-1_amd64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_1.8.26-1_amd64.deb) | 6.0 MiB | `runtime/deb/amd64` |
+| [packemon_1.8.26-1_amd64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_1.8.26-1_amd64.rpm) | 6.0 MiB | `other` |
+| [packemon_1.8.26-1_arm64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_1.8.26-1_arm64.apk) | 5.6 MiB | `other` |
+| [packemon_1.8.26-1_arm64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_1.8.26-1_arm64.deb) | 5.4 MiB | `runtime/deb/arm64` |
+| [packemon_1.8.26-1_arm64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_1.8.26-1_arm64.rpm) | 5.4 MiB | `other` |
+| [packemon_1.8.26_checksums.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_1.8.26_checksums.txt) | 753 B | `other` |
+| [packemon_Darwin_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [packemon_Darwin_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_Linux_arm64.tar.gz) | 5.4 MiB | `native/linux/arm64` |
+| [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.26/packemon_Linux_x86_64.tar.gz) | 6.0 MiB | `native/linux/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 11,607 | 930 | 2,324 | 105 |
-| C | 195 | 20 | 46 | 1 |
-| Yaml | 32 | 2 | 3 | 1 |
-| Makefile | 18 | 4 | 8 | 3 |
-| Python | 8 | 10 | 7 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/packemon) 上共有 **5** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -61,4 +84,4 @@ packemon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:39:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:39:51Z._
