@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6309852,
       "digest": "sha256:f4faf7f14a379713221aab18fd284ca5a6fcaf8649d7f332114dc948bc42e34d",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-27T08:31:35Z",
       "updated_at": "2026-09-27T08:31:36Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.29/packemon_1.8.29-1_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6321310,
       "digest": "sha256:00a1587fca06e81a8335c04b5d87ea6573bd9d692b19ab4d87b55b9812777ec9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-27T08:31:34Z",
       "updated_at": "2026-09-27T08:31:35Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.29/packemon_Linux_x86_64.tar.gz"
