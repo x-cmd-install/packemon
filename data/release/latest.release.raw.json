@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5746549,
       "digest": "sha256:aead1305177e39ebb4c673a2dcc2e07bbb441687397c19c25ce40b3768beee21",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-27T08:31:58Z",
       "updated_at": "2026-09-27T08:31:59Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.29/packemon_Darwin_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6321310,
       "digest": "sha256:00a1587fca06e81a8335c04b5d87ea6573bd9d692b19ab4d87b55b9812777ec9",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-27T08:31:34Z",
       "updated_at": "2026-09-27T08:31:35Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.29/packemon_Linux_x86_64.tar.gz"
