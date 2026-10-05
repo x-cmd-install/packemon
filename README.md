@@ -14,11 +14,11 @@ x install packemon
 
 ## Code insight
 
-Total: **13,784** lines of code across **122** files in the top 5 languages.
+Total: **13,966** lines of code across **125** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,531 | 1,274 | 2,389 | 116 |
+| Go | 13,713 | 1,276 | 2,420 | 119 |
 | C | 195 | 20 | 46 | 1 |
 | Yaml | 32 | 2 | 3 | 1 |
 | Makefile | 18 | 4 | 8 | 3 |
@@ -31,8 +31,8 @@ Total: **13,784** lines of code across **122** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.8.31` (2026-10-03)
-- **Last commit**: 2026-10-03
+- **Latest**: `v1.8.32` (2026-10-04)
+- **Last commit**: 2026-10-04
 - **Assets in release**: 12
 
 ## Popularity
@@ -41,35 +41,35 @@ Total: **13,784** lines of code across **122** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 149 · **Open PRs**: 4 · **Closed issues**: 62 · **Open issues**: 33 · **Commits**: 777
+- **Releases**: 82 · **Merged PRs**: 150 · **Open PRs**: 4 · **Closed issues**: 62 · **Open issues**: 33 · **Commits**: 780
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 5 | 8 | 3 | 0 | 1 | 28 |
-| last60d | 2026-08-05 | 5 | 12 | 3 | 0 | 1 | 31 |
-| 90d | 2026-07-06 | 6 | 15 | 3 | 0 | 1 | 34 |
-| last180d | 2026-04-07 | 10 | 33 | 3 | 2 | 3 | 54 |
-| 360d | 2025-10-09 | 15 | 63 | 4 | 2 | 5 | 85 |
-| last720d | 2024-10-14 | 70 | 138 | 4 | 27 | 12 | 456 |
+| 30d | 2026-09-05 | 6 | 9 | 3 | 0 | 1 | 30 |
+| last60d | 2026-08-06 | 6 | 13 | 3 | 0 | 1 | 33 |
+| 90d | 2026-07-07 | 7 | 16 | 3 | 0 | 1 | 36 |
+| last180d | 2026-04-08 | 11 | 34 | 3 | 2 | 3 | 56 |
+| 360d | 2025-10-10 | 16 | 63 | 4 | 2 | 5 | 87 |
+| last720d | 2024-10-15 | 71 | 139 | 4 | 27 | 12 | 458 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [packemon-1.8.31-darwin.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon-1.8.31-darwin.txt) | 191 B | `native/darwin/x64` |
-| [packemon_1.8.31-1_amd64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_amd64.apk) | 6.3 MiB | `other` |
-| [packemon_1.8.31-1_amd64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_amd64.deb) | 6.0 MiB | `runtime/deb/amd64` |
-| [packemon_1.8.31-1_amd64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_amd64.rpm) | 6.0 MiB | `other` |
-| [packemon_1.8.31-1_arm64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_arm64.apk) | 5.7 MiB | `other` |
-| [packemon_1.8.31-1_arm64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_arm64.deb) | 5.5 MiB | `runtime/deb/arm64` |
-| [packemon_1.8.31-1_arm64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_arm64.rpm) | 5.5 MiB | `other` |
-| [packemon_1.8.31_checksums.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31_checksums.txt) | 753 B | `other` |
-| [packemon_Darwin_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [packemon_Darwin_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
-| [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Linux_x86_64.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [packemon-1.8.32-darwin.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon-1.8.32-darwin.txt) | 191 B | `native/darwin/x64` |
+| [packemon_1.8.32-1_amd64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_amd64.apk) | 6.3 MiB | `other` |
+| [packemon_1.8.32-1_amd64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_amd64.deb) | 6.0 MiB | `runtime/deb/amd64` |
+| [packemon_1.8.32-1_amd64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_amd64.rpm) | 6.0 MiB | `other` |
+| [packemon_1.8.32-1_arm64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_arm64.apk) | 5.7 MiB | `other` |
+| [packemon_1.8.32-1_arm64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_arm64.deb) | 5.5 MiB | `runtime/deb/arm64` |
+| [packemon_1.8.32-1_arm64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_arm64.rpm) | 5.5 MiB | `other` |
+| [packemon_1.8.32_checksums.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32_checksums.txt) | 753 B | `other` |
+| [packemon_Darwin_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [packemon_Darwin_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
+| [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Linux_x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:40:27Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:21:52Z._

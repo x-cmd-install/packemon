@@ -14,11 +14,11 @@ x install packemon
 
 ## 代码洞察
 
-合计: **13,784** 行代码（覆盖前 5 种语言、共 **122** 个文件）。
+合计: **13,966** 行代码（覆盖前 5 种语言、共 **125** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 13,531 | 1,274 | 2,389 | 116 |
+| Go | 13,713 | 1,276 | 2,420 | 119 |
 | C | 195 | 20 | 46 | 1 |
 | Yaml | 32 | 2 | 3 | 1 |
 | Makefile | 18 | 4 | 8 | 3 |
@@ -31,8 +31,8 @@ x install packemon
 
 ## 发布
 
-- **最新版本**: `v1.8.31` (2026-10-03)
-- **最近提交**: 2026-10-03
+- **最新版本**: `v1.8.32` (2026-10-04)
+- **最近提交**: 2026-10-04
 - **Release 含资产**: 12 个
 
 ## 流行度
@@ -41,35 +41,35 @@ x install packemon
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 149 · **开放 PR**: 4 · **已关闭 issue**: 62 · **开放 issue**: 33 · **提交数**: 777
+- **发布数**: 82 · **已合并 PR**: 150 · **开放 PR**: 4 · **已关闭 issue**: 62 · **开放 issue**: 33 · **提交数**: 780
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 5 | 8 | 3 | 0 | 1 | 28 |
-| last60d | 2026-08-05 | 5 | 12 | 3 | 0 | 1 | 31 |
-| 90d | 2026-07-06 | 6 | 15 | 3 | 0 | 1 | 34 |
-| last180d | 2026-04-07 | 10 | 33 | 3 | 2 | 3 | 54 |
-| 360d | 2025-10-09 | 15 | 63 | 4 | 2 | 5 | 85 |
-| last720d | 2024-10-14 | 70 | 138 | 4 | 27 | 12 | 456 |
+| 30d | 2026-09-05 | 6 | 9 | 3 | 0 | 1 | 30 |
+| last60d | 2026-08-06 | 6 | 13 | 3 | 0 | 1 | 33 |
+| 90d | 2026-07-07 | 7 | 16 | 3 | 0 | 1 | 36 |
+| last180d | 2026-04-08 | 11 | 34 | 3 | 2 | 3 | 56 |
+| 360d | 2025-10-10 | 16 | 63 | 4 | 2 | 5 | 87 |
+| last720d | 2024-10-15 | 71 | 139 | 4 | 27 | 12 | 458 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [packemon-1.8.31-darwin.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon-1.8.31-darwin.txt) | 191 B | `native/darwin/x64` |
-| [packemon_1.8.31-1_amd64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_amd64.apk) | 6.3 MiB | `other` |
-| [packemon_1.8.31-1_amd64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_amd64.deb) | 6.0 MiB | `runtime/deb/amd64` |
-| [packemon_1.8.31-1_amd64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_amd64.rpm) | 6.0 MiB | `other` |
-| [packemon_1.8.31-1_arm64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_arm64.apk) | 5.7 MiB | `other` |
-| [packemon_1.8.31-1_arm64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_arm64.deb) | 5.5 MiB | `runtime/deb/arm64` |
-| [packemon_1.8.31-1_arm64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31-1_arm64.rpm) | 5.5 MiB | `other` |
-| [packemon_1.8.31_checksums.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_1.8.31_checksums.txt) | 753 B | `other` |
-| [packemon_Darwin_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [packemon_Darwin_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
-| [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.31/packemon_Linux_x86_64.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [packemon-1.8.32-darwin.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon-1.8.32-darwin.txt) | 191 B | `native/darwin/x64` |
+| [packemon_1.8.32-1_amd64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_amd64.apk) | 6.3 MiB | `other` |
+| [packemon_1.8.32-1_amd64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_amd64.deb) | 6.0 MiB | `runtime/deb/amd64` |
+| [packemon_1.8.32-1_amd64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_amd64.rpm) | 6.0 MiB | `other` |
+| [packemon_1.8.32-1_arm64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_arm64.apk) | 5.7 MiB | `other` |
+| [packemon_1.8.32-1_arm64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_arm64.deb) | 5.5 MiB | `runtime/deb/arm64` |
+| [packemon_1.8.32-1_arm64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32-1_arm64.rpm) | 5.5 MiB | `other` |
+| [packemon_1.8.32_checksums.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_1.8.32_checksums.txt) | 753 B | `other` |
+| [packemon_Darwin_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [packemon_Darwin_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
+| [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.32/packemon_Linux_x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
 
 ## 改进这些数据
 
@@ -80,4 +80,4 @@ packemon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T06:40:27Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T06:21:52Z._
