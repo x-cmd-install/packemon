@@ -14,15 +14,15 @@ x install packemon
 
 ## Code insight
 
-Total: **13,966** lines of code across **125** files in the top 5 languages.
+Total: **14,123** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 13,713 | 1,276 | 2,420 | 119 |
 | C | 195 | 20 | 46 | 1 |
+| Sh | 118 | 17 | 30 | 2 |
+| Makefile | 57 | 6 | 16 | 4 |
 | Yaml | 32 | 2 | 3 | 1 |
-| Makefile | 18 | 4 | 8 | 3 |
-| Python | 8 | 10 | 7 | 1 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **13,966** lines of code across **125** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.32` (2026-10-04)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-12
 - **Assets in release**: 12
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **13,966** lines of code across **125** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 150 · **Open PRs**: 4 · **Closed issues**: 62 · **Open issues**: 33 · **Commits**: 780
+- **Releases**: 82 · **Merged PRs**: 150 · **Open PRs**: 4 · **Closed issues**: 62 · **Open issues**: 33 · **Commits**: 781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 6 | 7 | 3 | 0 | 1 | 0 |
-| last60d | 2026-08-12 | 6 | 13 | 3 | 0 | 1 | 0 |
-| 90d | 2026-07-13 | 7 | 15 | 3 | 0 | 1 | 0 |
-| last180d | 2026-04-14 | 11 | 33 | 3 | 2 | 3 | 0 |
-| 360d | 2025-10-16 | 15 | 62 | 4 | 2 | 5 | 0 |
-| last720d | 2024-10-21 | 71 | 139 | 4 | 27 | 12 | 451 |
+| 30d | 2026-09-12 | 6 | 7 | 3 | 0 | 0 | 24 |
+| last60d | 2026-08-13 | 6 | 13 | 3 | 0 | 1 | 34 |
+| 90d | 2026-07-14 | 7 | 15 | 3 | 0 | 1 | 35 |
+| last180d | 2026-04-15 | 11 | 33 | 3 | 2 | 3 | 57 |
+| 360d | 2025-10-17 | 15 | 62 | 4 | 2 | 5 | 88 |
+| last720d | 2024-10-22 | 71 | 139 | 4 | 27 | 12 | 452 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:21:47Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:41:43Z._
