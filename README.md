@@ -41,18 +41,18 @@ Total: **14,123** lines of code across **127** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 150 · **Open PRs**: 4 · **Closed issues**: 62 · **Open issues**: 33 · **Commits**: 781
+- **Releases**: 82 · **Merged PRs**: 150 · **Open PRs**: 6 · **Closed issues**: 62 · **Open issues**: 33 · **Commits**: 781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 6 | 6 | 3 | 0 | 0 | 24 |
-| last60d | 2026-08-17 | 6 | 12 | 3 | 0 | 1 | 34 |
-| 90d | 2026-07-18 | 6 | 14 | 3 | 0 | 1 | 35 |
-| last180d | 2026-04-19 | 11 | 33 | 3 | 2 | 3 | 57 |
-| 360d | 2025-10-21 | 15 | 62 | 4 | 2 | 5 | 88 |
-| last720d | 2024-10-26 | 71 | 139 | 4 | 27 | 12 | 452 |
+| 30d | 2026-09-17 | 6 | 6 | 5 | 0 | 0 | 24 |
+| last60d | 2026-08-18 | 6 | 12 | 5 | 0 | 1 | 34 |
+| 90d | 2026-07-19 | 6 | 14 | 5 | 0 | 1 | 35 |
+| last180d | 2026-04-20 | 11 | 33 | 5 | 2 | 3 | 57 |
+| 360d | 2025-10-22 | 15 | 62 | 6 | 2 | 5 | 88 |
+| last720d | 2024-10-27 | 71 | 139 | 6 | 27 | 12 | 451 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:16:46Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:58:51Z._
