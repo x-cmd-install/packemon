@@ -37,7 +37,7 @@ Total: **14,823** lines of code across **131** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 308 · **Forks**: 6 · **Open issues**: 104 · **Contributors**: 3
+- **Stars**: 309 · **Forks**: 6 · **Open issues**: 104 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,823** lines of code across **131** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 6 | 6 | 12 | 0 | 9 | 18 |
-| last60d | 2026-08-23 | 7 | 11 | 12 | 0 | 10 | 34 |
-| 90d | 2026-07-24 | 7 | 15 | 12 | 0 | 10 | 36 |
-| last180d | 2026-04-25 | 12 | 33 | 12 | 2 | 12 | 57 |
-| 360d | 2025-10-27 | 16 | 62 | 13 | 2 | 14 | 88 |
-| last720d | 2024-11-01 | 72 | 140 | 13 | 27 | 21 | 453 |
+| 30d | 2026-09-23 | 6 | 6 | 12 | 0 | 9 | 18 |
+| last60d | 2026-08-24 | 7 | 11 | 12 | 0 | 10 | 34 |
+| 90d | 2026-07-25 | 7 | 15 | 12 | 0 | 10 | 36 |
+| last180d | 2026-04-26 | 12 | 33 | 12 | 2 | 12 | 57 |
+| 360d | 2025-10-28 | 16 | 62 | 13 | 2 | 14 | 88 |
+| last720d | 2024-11-02 | 72 | 140 | 13 | 27 | 21 | 452 |
 
 ## Release assets
 
@@ -71,6 +71,10 @@ Total: **14,823** lines of code across **131** files in the top 5 languages.
 | [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
 | [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Linux_x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
 
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/packemon). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `packemon` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +84,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:25:57Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:25:03Z._
