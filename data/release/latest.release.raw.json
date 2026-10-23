@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 191,
       "digest": "sha256:84b24f78e6b3e1bb9925e49163b0f41f346d012518bf5f880b06afe2e2c8ffac",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-18T02:38:38Z",
       "updated_at": "2026-10-18T02:38:38Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon-1.8.33-darwin.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6605763,
       "digest": "sha256:e04bc51d2828af4502d41e8fb63b91cca17f6d736b838349200a2d0164aed073",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-18T02:38:29Z",
       "updated_at": "2026-10-18T02:38:30Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_amd64.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6350716,
       "digest": "sha256:5a8e8174a38c53571237f0444a8c7060daad6e3a7d7cf19bdfb90d003dea2352",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-18T02:38:30Z",
       "updated_at": "2026-10-18T02:38:30Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6351051,
       "digest": "sha256:a351f935c0678bae5eaa67c80646c7e219bf93497ebff7cf1f353d8d5759833b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-18T02:38:28Z",
       "updated_at": "2026-10-18T02:38:29Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_amd64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5960050,
       "digest": "sha256:95d01d276414126db89a5d6ecda8cc1d4ccbb33b647db3ea7f03bc498730f07c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-18T02:38:29Z",
       "updated_at": "2026-10-18T02:38:30Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_arm64.apk"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5744292,
       "digest": "sha256:b36944e8bd35646304c4099d3ca1a9f71e7fd63361389ebb3acdf003ff15657b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-18T02:38:29Z",
       "updated_at": "2026-10-18T02:38:30Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_arm64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5747983,
       "digest": "sha256:93ccac377d0e69edc7bbabf96a99595ddd3821176a63adbc2895ba7c1fba7c9c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-18T02:38:28Z",
       "updated_at": "2026-10-18T02:38:29Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_arm64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 753,
       "digest": "sha256:53cde5a507a795873aa3b6e1d532048d08248cdd2f6e0ec5bac8926442b49f9f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-18T02:38:30Z",
       "updated_at": "2026-10-18T02:38:31Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33_checksums.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5776538,
       "digest": "sha256:7477b9debdbf0ec9936cda58814fdf372cd5323352d3cf6e580afa233f9e6b0d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-18T02:38:38Z",
       "updated_at": "2026-10-18T02:38:38Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6245769,
       "digest": "sha256:c29c38a25ac9650a8b02c1c8bfdfbb4097174436db3a0cc070217487f5cecd5e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-18T02:38:38Z",
       "updated_at": "2026-10-18T02:38:39Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Darwin_x86_64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5761896,
       "digest": "sha256:4c30e50d6c280ec88bd150ea43ac2f90f798070450a780b5dc30d9e84c5228e1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-18T02:38:28Z",
       "updated_at": "2026-10-18T02:38:29Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Linux_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6361276,
       "digest": "sha256:defe23a23d782a944ddb248a2933df4a87e8510a728cdc80c60ad1100561518a",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-10-18T02:38:28Z",
       "updated_at": "2026-10-18T02:38:29Z",
       "browser_download_url": "https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Linux_x86_64.tar.gz"
