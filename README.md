@@ -14,11 +14,11 @@ x install packemon
 
 ## Code insight
 
-Total: **14,985** lines of code across **132** files in the top 5 languages.
+Total: **15,064** lines of code across **135** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,575 | 1,325 | 2,525 | 124 |
+| Go | 14,654 | 1,332 | 2,536 | 127 |
 | C | 195 | 20 | 46 | 1 |
 | Sh | 118 | 17 | 30 | 2 |
 | Makefile | 57 | 6 | 16 | 4 |
@@ -31,49 +31,49 @@ Total: **14,985** lines of code across **132** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.8.33` (2026-10-18)
+- **Latest**: `v1.8.34` (2026-10-25)
 - **Last commit**: 2026-10-25
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 311 · **Forks**: 6 · **Open issues**: 105 · **Contributors**: 3
+- **Stars**: 311 · **Forks**: 6 · **Open issues**: 107 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 153 · **Open PRs**: 11 · **Closed issues**: 64 · **Open issues**: 41 · **Commits**: 788
+- **Releases**: 84 · **Merged PRs**: 159 · **Open PRs**: 6 · **Closed issues**: 72 · **Open issues**: 35 · **Commits**: 803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 6 | 8 | 9 | 2 | 8 | 11 |
-| last60d | 2026-08-26 | 7 | 13 | 10 | 2 | 9 | 35 |
-| 90d | 2026-07-27 | 7 | 17 | 10 | 2 | 9 | 38 |
-| last180d | 2026-04-28 | 12 | 35 | 10 | 4 | 11 | 60 |
-| 360d | 2025-10-30 | 16 | 64 | 11 | 4 | 13 | 90 |
-| last720d | 2024-11-04 | 72 | 142 | 11 | 29 | 20 | 457 |
+| 30d | 2026-09-26 | 7 | 13 | 4 | 10 | 2 | 20 |
+| last60d | 2026-08-27 | 8 | 19 | 5 | 10 | 3 | 44 |
+| 90d | 2026-07-28 | 8 | 23 | 5 | 10 | 3 | 47 |
+| last180d | 2026-04-29 | 13 | 41 | 5 | 12 | 5 | 69 |
+| 360d | 2025-10-31 | 17 | 69 | 6 | 12 | 7 | 99 |
+| last720d | 2024-11-05 | 73 | 148 | 6 | 37 | 14 | 472 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [packemon-1.8.33-darwin.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon-1.8.33-darwin.txt) | 191 B | `native/darwin/x64` |
-| [packemon_1.8.33-1_amd64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_amd64.apk) | 6.3 MiB | `other` |
-| [packemon_1.8.33-1_amd64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_amd64.deb) | 6.1 MiB | `runtime/deb/amd64` |
-| [packemon_1.8.33-1_amd64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_amd64.rpm) | 6.1 MiB | `other` |
-| [packemon_1.8.33-1_arm64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_arm64.apk) | 5.7 MiB | `other` |
-| [packemon_1.8.33-1_arm64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_arm64.deb) | 5.5 MiB | `runtime/deb/arm64` |
-| [packemon_1.8.33-1_arm64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33-1_arm64.rpm) | 5.5 MiB | `other` |
-| [packemon_1.8.33_checksums.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_1.8.33_checksums.txt) | 753 B | `other` |
-| [packemon_Darwin_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [packemon_Darwin_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Darwin_x86_64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
-| [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
-| [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.33/packemon_Linux_x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
+| [packemon-1.8.34-darwin.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon-1.8.34-darwin.txt) | 191 B | `native/darwin/x64` |
+| [packemon_1.8.34-1_amd64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_1.8.34-1_amd64.apk) | 6.3 MiB | `other` |
+| [packemon_1.8.34-1_amd64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_1.8.34-1_amd64.deb) | 6.1 MiB | `runtime/deb/amd64` |
+| [packemon_1.8.34-1_amd64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_1.8.34-1_amd64.rpm) | 6.2 MiB | `other` |
+| [packemon_1.8.34-1_arm64.apk](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_1.8.34-1_arm64.apk) | 5.7 MiB | `other` |
+| [packemon_1.8.34-1_arm64.deb](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_1.8.34-1_arm64.deb) | 5.5 MiB | `runtime/deb/arm64` |
+| [packemon_1.8.34-1_arm64.rpm](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_1.8.34-1_arm64.rpm) | 5.6 MiB | `other` |
+| [packemon_1.8.34_checksums.txt](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_1.8.34_checksums.txt) | 753 B | `other` |
+| [packemon_Darwin_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [packemon_Darwin_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Darwin_x86_64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
+| [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
+| [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Linux_x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/packemon). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/packemon). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:15:44Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:23:32Z._
