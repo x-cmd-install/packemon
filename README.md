@@ -47,12 +47,12 @@ Total: **15,064** lines of code across **135** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 7 | 13 | 4 | 10 | 2 | 20 |
-| last60d | 2026-08-27 | 8 | 19 | 5 | 10 | 3 | 44 |
-| 90d | 2026-07-28 | 8 | 23 | 5 | 10 | 3 | 47 |
-| last180d | 2026-04-29 | 13 | 41 | 5 | 12 | 5 | 69 |
-| 360d | 2025-10-31 | 17 | 69 | 6 | 12 | 7 | 99 |
-| last720d | 2024-11-05 | 73 | 148 | 6 | 37 | 14 | 472 |
+| 30d | 2026-09-27 | 6 | 12 | 4 | 10 | 2 | 20 |
+| last60d | 2026-08-28 | 8 | 19 | 5 | 10 | 3 | 44 |
+| 90d | 2026-07-29 | 8 | 23 | 5 | 10 | 3 | 47 |
+| last180d | 2026-04-30 | 13 | 41 | 5 | 12 | 5 | 69 |
+| 360d | 2025-11-01 | 17 | 69 | 6 | 12 | 7 | 99 |
+| last720d | 2024-11-06 | 73 | 148 | 6 | 37 | 14 | 472 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Total: **15,064** lines of code across **135** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/packemon). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/packemon). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:23:32Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:53:00Z._
