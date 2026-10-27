@@ -1,4 +1,16 @@
 - repo: aur
+  srcname: packemon
+  binname: packemon
+  visiblename: packemon
+  version: 1.8.34
+  origversion: 1.8.34-1
+  status: newest
+  summary: A TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces.
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - BSD-2-Clause
+- repo: aur
   srcname: packemon-bin
   binname: packemon-bin
   visiblename: packemon-bin
@@ -8,18 +20,6 @@
   summary: A TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces.
   maintainers:
     - dominiquini@aur
-  licenses:
-    - BSD-2-Clause
-- repo: aur
-  srcname: packemon
-  binname: packemon
-  visiblename: packemon
-  version: 1.8.33
-  origversion: 1.8.33-1
-  status: outdated
-  summary: A TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces.
-  maintainers:
-    - kemelzaidan@aur
   licenses:
     - BSD-2-Clause
 - repo: aur
