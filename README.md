@@ -47,12 +47,12 @@ Total: **15,064** lines of code across **135** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 10 | 0 | 10 | 2 | 5 |
-| last60d | 2026-09-17 | 8 | 16 | 5 | 10 | 2 | 31 |
-| 90d | 2026-08-18 | 8 | 22 | 5 | 10 | 3 | 47 |
-| last180d | 2026-05-20 | 10 | 37 | 5 | 11 | 5 | 61 |
-| 360d | 2025-11-21 | 17 | 65 | 6 | 12 | 7 | 95 |
-| last720d | 2024-11-26 | 73 | 149 | 6 | 37 | 14 | 473 |
+| 30d | 2026-10-18 | 2 | 9 | 0 | 10 | 2 | 5 |
+| last60d | 2026-09-18 | 8 | 16 | 5 | 10 | 2 | 31 |
+| 90d | 2026-08-19 | 8 | 22 | 5 | 10 | 3 | 47 |
+| last180d | 2026-05-21 | 10 | 37 | 5 | 11 | 5 | 61 |
+| 360d | 2025-11-22 | 17 | 65 | 6 | 12 | 7 | 95 |
+| last720d | 2024-11-27 | 73 | 149 | 6 | 37 | 14 | 473 |
 
 ## Release assets
 
@@ -71,10 +71,6 @@ Total: **15,064** lines of code across **135** files in the top 5 languages.
 | [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
 | [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Linux_x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/packemon). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `packemon` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +80,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:37:45Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:38:37Z._
