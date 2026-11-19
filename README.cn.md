@@ -47,12 +47,12 @@ x install packemon
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 9 | 0 | 10 | 2 | 5 |
-| last60d | 2026-09-18 | 8 | 16 | 5 | 10 | 2 | 31 |
-| 90d | 2026-08-19 | 8 | 22 | 5 | 10 | 3 | 47 |
-| last180d | 2026-05-21 | 10 | 37 | 5 | 11 | 5 | 61 |
-| 360d | 2025-11-22 | 17 | 65 | 6 | 12 | 7 | 95 |
-| last720d | 2024-11-27 | 73 | 149 | 6 | 37 | 14 | 473 |
+| 30d | 2026-10-20 | 1 | 2 | 0 | 3 | 0 | 5 |
+| last60d | 2026-09-20 | 7 | 15 | 5 | 10 | 2 | 31 |
+| 90d | 2026-08-21 | 8 | 20 | 5 | 10 | 3 | 47 |
+| last180d | 2026-05-23 | 10 | 35 | 5 | 11 | 5 | 61 |
+| 360d | 2025-11-24 | 17 | 65 | 6 | 12 | 7 | 95 |
+| last720d | 2024-11-29 | 73 | 149 | 6 | 37 | 14 | 473 |
 
 ## Release 资产
 
@@ -71,6 +71,10 @@ x install packemon
 | [packemon_Linux_arm64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
 | [packemon_Linux_x86_64.tar.gz](https://github.com/ddddddO/packemon/releases/download/v1.8.34/packemon_Linux_x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/packemon) 上共有 **5** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
 ## 改进这些数据
 
 packemon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `packemon` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -80,4 +84,4 @@ packemon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:38:38Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:45:27Z._
