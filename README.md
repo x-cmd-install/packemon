@@ -47,12 +47,12 @@ Total: **15,064** lines of code across **135** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 2 | 0 | 3 | 0 | 5 |
-| last60d | 2026-09-22 | 7 | 15 | 5 | 10 | 2 | 31 |
-| 90d | 2026-08-23 | 8 | 20 | 5 | 10 | 3 | 47 |
-| last180d | 2026-05-25 | 10 | 35 | 5 | 10 | 5 | 61 |
-| 360d | 2025-11-26 | 17 | 65 | 6 | 12 | 7 | 95 |
-| last720d | 2024-12-01 | 73 | 149 | 6 | 37 | 14 | 473 |
+| 30d | 2026-10-23 | 1 | 2 | 0 | 3 | 0 | 1 |
+| last60d | 2026-09-23 | 7 | 15 | 5 | 10 | 2 | 21 |
+| 90d | 2026-08-24 | 8 | 20 | 5 | 10 | 3 | 45 |
+| last180d | 2026-05-26 | 10 | 35 | 5 | 10 | 5 | 61 |
+| 360d | 2025-11-27 | 17 | 65 | 6 | 12 | 7 | 93 |
+| last720d | 2024-12-02 | 73 | 149 | 6 | 37 | 14 | 472 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for packemon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:59:06Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:27:40Z._
